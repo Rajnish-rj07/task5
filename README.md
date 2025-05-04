@@ -36,4 +36,4 @@ Middle-class passenger median Age - 29 years
 Lower- class passenger median Age - 26 years
 
 rest all presentation is on jupyter python file Titanic_dataset.ipynb
-/hr<>/
+<https://github.com/Rajnish-rj07/task5/blob/main/titanic_dataset.ipynb>
